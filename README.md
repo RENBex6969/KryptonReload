@@ -24,3 +24,7 @@ In no event shall the Licensor be liable for any special, incidental, indirect, 
 This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles.
 ## Entire Agreement
 This Agreement constitutes the entire agreement between you and the Licensor and supersedes all prior or contemporaneous understandings, agreements, representations, and warranties, whether written or oral, with respect to the Software.
+## Amendments
+The Licensor reserves the right to modify this Agreement at any time. Any such modification will be effective upon posting on the Licensor’s GitHub repository or otherwise notifying you.
+## Agreement
+By using the Software, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions.
