@@ -1,6 +1,6 @@
 # KryptonReload
 KryptonReloaded, A inspired version of EquinoxHub!
-# Booting KryptonReloaded
+## Booting KryptonReloaded
 KryptonReloades will automatically find out if you're on mobile or not. If you're on mobile it will launch the Toggle Ui automatically. If you're on desktop it will automatically prevent the Toggle Ui from opening. You can still toggle the Toggle Ui by going to KryptonReloaded settings tab.
 ```lua
 print("Hello World")
