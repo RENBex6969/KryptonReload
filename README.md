@@ -1,15 +1,15 @@
 # KryptonReload
 KryptonReloaded, A inspired version of EquinoxHub!
-## Booting KryptonReloaded
+## Booting KryptonReload
 To launch KryptonReloades you will need to set **_G.License =** to true. This will accept the license agreement on your behalf. KryptonReload will only work when the license agreement is agreed by the user.
 ```lua
 _G.License = false
 print("Hello World")
 ```
 ## Micsi
-KryptonReloaded will automatically find out if you're on mobile or not. If you're on mobile it will launch the Toggle Ui automatically. If you're on desktop it will automatically prevent the Toggle Ui from opening. You can still toggle the Toggle Ui by going to KryptonReloaded settings tab.
+KryptonReload will automatically find out if you're on mobile or not. If you're on mobile it will launch the Toggle Ui automatically. If you're on desktop it will automatically prevent the Toggle Ui from opening. You can still toggle the Toggle Ui by going to KryptonReloaded settings tab.
 # License
-This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReloaded ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
+This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ## Grant of license
 The Licensor grants you a non-exclusive, non-transferable license to use the Software solely for your personal or internal business purposes, subject to the restrictions set forth in this Agreement.
 ## Restrictions
