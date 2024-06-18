@@ -1,10 +1,13 @@
 # KryptonReload
 KryptonReloaded, A inspired version of EquinoxHub!
 ## Booting KryptonReloaded
-KryptonReloades will automatically find out if you're on mobile or not. If you're on mobile it will launch the Toggle Ui automatically. If you're on desktop it will automatically prevent the Toggle Ui from opening. You can still toggle the Toggle Ui by going to KryptonReloaded settings tab.
+To launch KryptonReloades you will need to set **_G.License =** to true. This will accept the license agreement on your behalf. KryptonReload will only work when the license agreement is agreed by the user.
 ```lua
+_G.License = false
 print("Hello World")
 ```
+## Micsi
+KryptonReloaded will automatically find out if you're on mobile or not. If you're on mobile it will launch the Toggle Ui automatically. If you're on desktop it will automatically prevent the Toggle Ui from opening. You can still toggle the Toggle Ui by going to KryptonReloaded settings tab.
 # License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReloaded ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ## Grant of license
@@ -25,7 +28,7 @@ The Software is provided "AS IS" without warranty of any kind. The Licensor disc
 ## Limitation of Liability
 In no event shall the Licensor be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
 ## Governing Law
-This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles.
+This Agreement shall be governed by and construed in accordance with the laws of United States of America, without regard to its conflict of laws principles.
 ## Entire Agreement
 This Agreement constitutes the entire agreement between you and the Licensor and supersedes all prior or contemporaneous understandings, agreements, representations, and warranties, whether written or oral, with respect to the Software.
 ## Amendments
