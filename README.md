@@ -4,7 +4,8 @@ KryptonReloaded, A inspired version of EquinoxHub!
 To launch KryptonReloades you will need to set **_G.License =** to true. This will accept the license agreement on your behalf. KryptonReload will only work when the license agreement is agreed by the user.
 ```lua
 _G.License = false
-print("Hello World")
+BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
+loadstring(game:HttpGet(BootableURL))()
 ```
 
 ## License
