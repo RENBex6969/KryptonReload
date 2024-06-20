@@ -1,7 +1,7 @@
-# KryptonReload
+# Krypton
 KryptonReloaded, A inspired version of EquinoxHub!
-## Booting KryptonReload
-To launch KryptonReloades you will need to set **_G.License =** to true. This will accept the license agreement on your behalf. KryptonReload will only work when the license agreement is agreed by the user.
+## Booting Krypton
+To launch Krypton you will need to set **_G.License =** to true. This will accept the license agreement on your behalf. KryptonReload will only work when the license agreement is agreed by the user.
 ```lua
 _G.License = false
 BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
