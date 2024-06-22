@@ -20,6 +20,11 @@ loadstring(game:HttpGet(BootableURL))()
 * Reviz
 * Homebrew
 * Homebrew Custom UI
+> **Dex's**
+* Dark Dex V4
+* Dark Dex V3
+* Dark Dex V2
+* Dark Dex V1
 > **Player**
 * Walkspeed Changer
 * Jumpheight Changer
