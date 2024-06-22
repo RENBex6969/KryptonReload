@@ -161,7 +161,8 @@ loadstring(game:HttpGet(BootableURL))()
 
 > Pc Executors
 * Nil
-
+## Information
+Any version of Krypton that is below version a2.0 is opensourced. Any versions that are above a2.0 are non-opensource.
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
