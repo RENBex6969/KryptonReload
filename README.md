@@ -77,6 +77,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Fly V3
 * Fullbright
 * Shiftlock
+* Netless
 
 > **Player Tools**
 * Btools
@@ -108,23 +109,31 @@ loadstring(game:HttpGet(BootableURL))()
 
 > **Troll**
 * Bang GUI FE
-* Click Fling FE
 * CoolKid Panel
-* Fling All FE
-* Fling Random FE
+
+> **Troll 2**
 * Giant Head FE
-* Netless FE
 * Orbit GUI FE
 * Sussy HUB FE
-* Touch Fling FE
+
+> **Trolling GUI**
 * Ultimate Trolling GUI [V1]
 * Ultimate Trolling GUI [V2]
 * Ultimate Trolling GUI [V3]
+
+> **Universal FE GUI**
 * Universal FE GUI [1]
 * Universal FE GUI [2]
 * Universal FE GUI [3]
-* Universal Troll Hubs
+
+> **Universal Troll Hubs**
 * Skyhub Trolling [2+]
+
+> **Fling**
+* Click Fling FE
+* Touch Fling FE
+* Fling Random FE
+* Fling All FE
 
 > **Universal Hubs**
 * Rochips Panel
