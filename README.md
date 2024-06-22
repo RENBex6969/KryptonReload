@@ -9,16 +9,6 @@ loadstring(game:HttpGet(BootableURL))()
 ```
 ## Features
 
-> **Specials**
-* Bulit in chatgpt 3.5
-* Bulit in Key System Bypasser
-
-> **Universal Hubs**
-* Rochips Panel 
-* Skyhub
-* Unfair Hub
-* Enderhub
-* 
 > **Admin**
 * CMD-X
 * Fate's Admin
@@ -33,6 +23,13 @@ loadstring(game:HttpGet(BootableURL))()
 * Adonis Bypasser
 * Anticheat Bypasser
 
+> **Anti's**
+* Anti AFK V1
+* Anti Bang
+* Anti Fling
+* Anti Kick
+* Anti Tool Kill
+
 > **Backdoor**
 * Backdoor Scanner 1
 * Backdoor Scanner 2
@@ -45,7 +42,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Dark Dex V4
 
 > **Executor**
-* Bulit in executor
+* Built-in Executor
 * Executor GUI+
 * Executor GUI++
 * Executor GUI+++
@@ -85,6 +82,11 @@ loadstring(game:HttpGet(BootableURL))()
 * Btools
 * TP Tool
 
+> **Remote Spy**
+* Simple Spy V2.2
+* Simple Spy V3
+* Turtle Spy
+
 > **Screen**
 * Crosshair
 * Display Name Remover
@@ -95,15 +97,49 @@ loadstring(game:HttpGet(BootableURL))()
 * Push to talk
 * Shaders
 
+> **Specials**
+* Built-in chatgpt 3.5
+* Built-in Key System Bypasser
+
 > **Technical**
 * Coords Finder V2
 * GUI Stealer
 * Http Spy
 
-> **Remote Spy**
-* Simple Spy V3
-* Simple Spy V2.2
-* Turtle Spy
+> **Troll**
+* Bang GUI FE
+* Click Fling FE
+* CoolKid Panel
+* Fling All FE
+* Fling Random FE
+* Giant Head FE
+* Netless FE
+* Orbit GUI FE
+* Sussy HUB FE
+* Touch Fling FE
+* Ultimate Trolling GUI [V1]
+* Ultimate Trolling GUI [V2]
+* Ultimate Trolling GUI [V3]
+* Universal FE GUI [1]
+* Universal FE GUI [2]
+* Universal FE GUI [3]
+* Universal Troll Hubs
+* Skyhub Trolling [2+]
+
+> **Universal Hubs**
+* Rochips Panel
+* Skyhub
+* Unfair Hub
+* Enderhub
+
+> **Server**
+* Server Stat Icons
+* Server HOP
+* Server Auto Rejoin
+* Server Rejoin
+* Server Kick
+* Server Join Smallest Server
+
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
