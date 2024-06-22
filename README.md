@@ -23,6 +23,11 @@ loadstring(game:HttpGet(BootableURL))()
 * Adonis Bypasser
 * Anticheat Bypasser
 
+> **Backdoor**
+* Backdoor Scanner 1
+* Backdoor Scanner 2
+* Backdoor Scanner 3
+
 > **Dex's**
 * Dark Dex V1
 * Dark Dex V2
@@ -85,6 +90,10 @@ loadstring(game:HttpGet(BootableURL))()
 * GUI Stealer
 * Http Spy
 
+> **Remote Spy**
+* Simple Spy V3
+* Simple Spy V2.2
+* Turtle Spy
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
