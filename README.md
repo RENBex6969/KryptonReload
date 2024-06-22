@@ -11,6 +11,15 @@ loadstring(game:HttpGet(BootableURL))()
 > **Anticheat**
 * Anticheat Bypasser
 * Adonis Bypasser
+> **Admin**
+* Infinite Yield
+* Fate's Admin
+* CMD-X
+* Nameless
+* Proton
+* Reviz
+* Homebrew
+* Homebrew Custom UI
 > **Player**
 * Walkspeed Changer
 * Jumpheight Changer
