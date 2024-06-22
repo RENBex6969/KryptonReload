@@ -7,6 +7,29 @@ _G.License = false
 BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
+## Features
+> Player
+* Walkspeed Changer
+* Jumpheight Changer
+* Gravity Changer
+> Player Presets
+* Superhuman
+* Superhuman++
+* Slow Rocketship
+* God
+> Player Scripts
+* Anti AFK
+* Shiftlock
+* Fly V3
+* Fullbright
+> Player Tools
+* Btools
+* TP Tool
+> Screen
+* FOV Changer
+* Shaders
+* Crosshair
+* ESP
 
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
