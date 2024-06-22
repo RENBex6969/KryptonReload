@@ -9,6 +9,10 @@ loadstring(game:HttpGet(BootableURL))()
 ```
 ## Features
 
+> **Specials**
+* Bulit in chatgpt 3.5
+* Bulit in Key System Bypasser
+
 > **Admin**
 * CMD-X
 * Fate's Admin
