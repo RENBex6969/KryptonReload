@@ -149,6 +149,19 @@ loadstring(game:HttpGet(BootableURL))()
 * Server Kick
 * Server Join Smallest Server
 
+## Supported Executors
+> Mobile Executors
+* Vega
+* Codex
+* Delta
+* Trigon
+* Fluxus
+* Arceus
+* Hydrogen
+
+> Pc Executors
+* Nil
+
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
