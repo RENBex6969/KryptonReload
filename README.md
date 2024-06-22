@@ -8,69 +8,83 @@ BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
 ## Features
-> **Anticheat**
-* Anticheat Bypasser
-* Adonis Bypasser
+
 > **Admin**
-* Infinite Yield
-* Fate's Admin
 * CMD-X
+* Fate's Admin
+* Homebrew
+* Homebrew Custom UI
+* Infinite Yield
 * Nameless
 * Proton
 * Reviz
-* Homebrew
-* Homebrew Custom UI
+
+> **Anticheat**
+* Adonis Bypasser
+* Anticheat Bypasser
+
 > **Dex's**
-* Dark Dex V4
-* Dark Dex V3
-* Dark Dex V2
 * Dark Dex V1
+* Dark Dex V2
+* Dark Dex V3
+* Dark Dex V4
+
+> **Executor**
+* Bulit in executor
+* Executor GUI+
+* Executor GUI++
+* Executor GUI+++
+
+> **Executor Test's**
+* UNC Test [1]
+* UNC Test [2]
+
+> **Executor Testing**
+* Executor Level Finder
+* Executor Vulnerability Finder
+* Instant Console
+
+> **Experimental**
+* FPS Cap Changer
+* FPS+
+* Lag Reducer
+
 > **Player**
-* Walkspeed Changer
-* Jumpheight Changer
 * Gravity Changer
-> Player Presets
+* Jumpheight Changer
+* Walkspeed Changer
+
+> **Player Presets**
+* God
+* Slow Rocketship
 * Superhuman
 * Superhuman++
-* Slow Rocketship
-* God
+
 > **Player Scripts**
 * Anti AFK
-* Shiftlock
 * Fly V3
-* **Fullbright**
-> Player Tools
+* Fullbright
+* Shiftlock
+
+> **Player Tools**
 * Btools
 * TP Tool
+
 > **Screen**
-* Display Name Remover
-* Mobile Keyboard
-* FOV Changer
-* FPS Counter
 * Crosshair
-* Shaders
+* Display Name Remover
 * ESP
+* FPS Counter
+* FOV Changer
+* Mobile Keyboard
 * Push to talk
-> **Executor**
-* Executor GUI+++
-* Executor GUI++
-* Executor GUI+
-* Bulit in executor
+* Shaders
+
 > **Technical**
 * Coords Finder V2
 * GUI Stealer
 * Http Spy
-> **Executor Testing**
-* Instant Console
-* Executor Level Finder
-* Executor Vulnerability Finder
-> **Executor Test's**
-* UNC Test [1]
-* UNC Test [2]
-> **Experimental**
-> FPS Cap Changer
-* Lag Reducer
-* FPS+
+
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
