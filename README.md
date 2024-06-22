@@ -8,7 +8,7 @@ BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
 ## Features
-> Player
+> **Player**
 * Walkspeed Changer
 * Jumpheight Changer
 * Gravity Changer
@@ -17,24 +17,27 @@ loadstring(game:HttpGet(BootableURL))()
 * Superhuman++
 * Slow Rocketship
 * God
-> Player Scripts
+> **Player Scripts**
 * Anti AFK
 * Shiftlock
 * Fly V3
-* Fullbright
+* **Fullbright**
 > Player Tools
 * Btools
 * TP Tool
-> Screen
+> **Screen**
+* Display Name Remover
 * FOV Changer
-* Shaders
 * Crosshair
+* Shaders
 * ESP
-> Executor
+* Push to talk
+> **Executor**
 * Executor GUI+++
 * Executor GUI++
 * Executor GUI+
-
+* Bulit in executor
+> **Executor Testing**
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
