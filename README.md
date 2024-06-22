@@ -8,6 +8,9 @@ BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
 ## Features
+> **Anticheat**
+* Anticheat Bypasser
+* Adonis Bypasser
 > **Player**
 * Walkspeed Changer
 * Jumpheight Changer
@@ -38,6 +41,13 @@ loadstring(game:HttpGet(BootableURL))()
 * Executor GUI+
 * Bulit in executor
 > **Executor Testing**
+* Instant Console
+* Executor Level Finder
+* Executor Vulnerability Finder
+> **Executor Test's**
+* UNC Test [1]
+* UNC Test [2]
+* 
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
