@@ -41,6 +41,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Display Name Remover
 * Mobile Keyboard
 * FOV Changer
+* FPS Counter
 * Crosshair
 * Shaders
 * ESP
@@ -61,6 +62,10 @@ loadstring(game:HttpGet(BootableURL))()
 > **Executor Test's**
 * UNC Test [1]
 * UNC Test [2]
+> **Experimental**
+> FPS Cap Changer
+* Lag Reducer
+* FPS+
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
