@@ -1,5 +1,5 @@
 # Krypton
-KryptonReloaded, A inspired version of EquinoxHub!
+Krypton, A inspired version of EquinoxHub!
 ## Booting Krypton
 To launch Krypton you will need to set **_G.License =** to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
 ```lua
@@ -160,9 +160,14 @@ loadstring(game:HttpGet(BootableURL))()
 * Hydrogen
 
 > Pc Executors
-* Nil
+* Not yet tested
 ## Information
+> **Laggy**
+The lagginess should only appear if you are using bluestacks and your computer isnt strong enough. Or your executor is just straight up trash.
+
+> **OPEN SOURCE**
 Any version of Krypton that is below version a2.0 is opensourced. Any versions that are above a2.0 are non-opensource.
+
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 ### Grant of license
