@@ -13,6 +13,12 @@ loadstring(game:HttpGet(BootableURL))()
 * Bulit in chatgpt 3.5
 * Bulit in Key System Bypasser
 
+> **Universal Hubs**
+* Rochips Panel 
+* Skyhub
+* Unfair Hub
+* Enderhub
+* 
 > **Admin**
 * CMD-X
 * Fate's Admin
