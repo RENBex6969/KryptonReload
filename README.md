@@ -65,6 +65,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Gravity Changer
 * Jumpheight Changer
 * Walkspeed Changer
+* Hip Height Changer
 
 > **Player Presets**
 * God
@@ -74,9 +75,11 @@ loadstring(game:HttpGet(BootableURL))()
 
 > **Player Scripts**
 * Anti AFK
+* Clear Inventory
 * Fly V3
 * Fullbright
 * Shiftlock
+* Invisible
 * Netless
 
 > **Player Tools**
