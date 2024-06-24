@@ -169,6 +169,10 @@ loadstring(game:HttpGet(BootableURL))()
 
 The lagginess should only appear if you are using bluestacks and your computer isnt strong enough. Or your executor is just straight up trash.
 
+> **Version**
+
+Current version of Krypton is a3.0
+
 > **OPEN SOURCE**
 
 Any version of Krypton that is below version a2.0 is opensourced. Any versions that are above a2.0 are non-opensource.
