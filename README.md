@@ -9,11 +9,12 @@ loadstring(game:HttpGet(BootableURL))()
 ```
 ## Krypton Rewind
 * Hated the new update?
-If then add _G.RewindKrypton and set it to any version you like
+If then add _G.RewindKrypton and set it to any version you like. Also u might wanna also make _G.RewindToggle to true
 
 **Example**
 ```lua
 _G.License = true
+_G.RewindToggle = true
 _G.RewindKrypton = "a2.5"
 BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
