@@ -186,6 +186,7 @@ The lagginess should only appear if you are using bluestacks and your computer i
 
 > **Version**
 Current version of Krypton is a3.0
+
 **List of versions**
 
 * a3.0
