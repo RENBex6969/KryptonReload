@@ -7,6 +7,18 @@ _G.License = false
 BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
+## Krypton Rewind
+* Hated the new update?
+If then add _G.RewindKrypton and set it to any version you like
+
+**Example**
+```lua
+_G.License = true
+_G.RewindKrypton = "a2.5"
+BootableURL = "https://github.com/RENBex6969/KryptonReload/raw/main/Krypton.lua"
+loadstring(game:HttpGet(BootableURL))()
+```
+
 ## Features
 
 > **Admin**
@@ -170,8 +182,12 @@ loadstring(game:HttpGet(BootableURL))()
 The lagginess should only appear if you are using bluestacks and your computer isnt strong enough. Or your executor is just straight up trash.
 
 > **Version**
-
 Current version of Krypton is a3.0
+**List of versions**
+
+* a3.0
+* a2.5
+* a2.0
 
 > **OPEN SOURCE**
 
