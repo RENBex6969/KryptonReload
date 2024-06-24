@@ -178,7 +178,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Hydrogen
 
 > Pc Executors
-* Not yet tested
+* ❌️ Solara
 ## Information
 > **Laggy**
 
