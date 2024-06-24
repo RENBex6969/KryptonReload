@@ -114,7 +114,8 @@ loadstring(game:HttpGet(BootableURL))()
 * Shaders
 
 > **Specials**
-* Built-in chatgpt 3.5
+* Allows booting old versions of Krypton
+* Built-in ChatGPT 3.5
 * Built-in Key System Bypasser
 
 > **Technical**
