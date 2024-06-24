@@ -28,6 +28,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Homebrew
 * Homebrew Custom UI
 * Infinite Yield
+* Infinite Yield Secure
 * Nameless
 * Proton
 * Reviz
