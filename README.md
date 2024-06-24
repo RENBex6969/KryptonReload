@@ -9,7 +9,7 @@ loadstring(game:HttpGet(BootableURL))()
 ```
 ## Krypton Rewind
 * Hated the new update?
-If then add _G.RewindKrypton and set it to any version you like. Also u might wanna also make _G.RewindToggle to true
+If then add `_G.RewindKrypton =` and set it to any version you like. Also u might wanna also make `_G.RewindToggle =` to true
 
 **Example**
 ```lua
