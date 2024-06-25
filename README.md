@@ -1,5 +1,5 @@
 # Krypton
-Krypton, Sleek advance modern look all under 2200 lines of code!💃
+Krypton, Sleek advance modern look all under 2300 lines of code!💃
 ## Booting Krypton
 To launch Krypton you will need to set `_G.License =` to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
 ```lua
@@ -187,10 +187,11 @@ loadstring(game:HttpGet(BootableURL))()
 The lagginess should only appear if you are using bluestacks and your computer isnt strong enough. Or your executor is just straight up trash.
 
 > **Version**
-Current version of Krypton is a3.0
+Current version of Krypton is a3.2
 
 **List of versions**
 
+* a3.2
 * a3.0
 * a2.5
 * a2.0
