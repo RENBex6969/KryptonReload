@@ -1,5 +1,5 @@
 # Krypton
-Krypton, Sleek modern look all under 2200 lines of code!💃
+Krypton, Sleek advance modern look all under 2200 lines of code!💃
 ## Booting Krypton
 To launch Krypton you will need to set `_G.License =` to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
 ```lua
