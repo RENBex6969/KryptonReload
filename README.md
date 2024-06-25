@@ -45,6 +45,17 @@ loadstring(game:HttpGet(BootableURL))()
 * Anti Kick
 * Anti Tool Kill
 
+> **Animation**
+* Animation Player
+* Animation Hub 1
+* Animation Hub 2
+* Animation Hub 3
+* LX63 Hub
+* Energize Hub
+* Pendulum Hub
+
+
+
 > **Backdoor**
 * Backdoor Scanner 1
 * Backdoor Scanner 2
