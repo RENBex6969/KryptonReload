@@ -170,17 +170,17 @@ loadstring(game:HttpGet(BootableURL))()
 * Server Join Smallest Server
 
 ## Supported Executors
-> Mobile Executors
+> Executors
 * Vega
 * Codex
 * Delta
 * Trigon
 * Fluxus
-* Arceus
 * Hydrogen
 
-> Pc Executors
+> Not Supported Executors
 * ❌️ Solara
+* ❌️ Arceus
 ## Information
 > **Laggy**
 
