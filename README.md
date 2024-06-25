@@ -81,6 +81,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Jumpheight Changer
 * Walkspeed Changer
 * Hip Height Changer
+* Teleport to other players
 
 > **Player Presets**
 * God
