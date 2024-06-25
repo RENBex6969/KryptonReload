@@ -108,6 +108,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Turtle Spy
 
 > **Screen**
+* Auto-clicker
 * Crosshair
 * Display Name Remover
 * ESP
@@ -116,6 +117,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Mobile Keyboard
 * Push to talk
 * Shaders
+* X-Ray
 
 > **Specials**
 * Allows booting old versions of Krypton
