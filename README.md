@@ -22,6 +22,9 @@ loadstring(game:HttpGet(BootableURL))()
 
 ## Features
 
+*Total : 149*
+
+
 > **Admin**
 * CMD-X
 * Fate's Admin
