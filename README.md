@@ -47,9 +47,9 @@ loadstring(game:HttpGet(BootableURL))()
 
 > **Animation**
 * Animation Player
-* Animation Hub 1
-* Animation Hub 2
-* Animation Hub 3
+* Animation Hub
+* Animation Changer 1
+* Animation Changer 2
 * LX63 Hub
 * Energize Hub
 * Pendulum Hub
