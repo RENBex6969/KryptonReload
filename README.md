@@ -105,6 +105,7 @@ loadstring(game:HttpGet(BootableURL))()
 * Superhuman++
 
 > **Player Scripts**
+* Game Teleporter
 * Anti AFK
 * Clear Inventory
 * Fly V3
