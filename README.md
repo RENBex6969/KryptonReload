@@ -23,7 +23,8 @@ loadstring(game:HttpGet(BootableURL))()
 ## Features
 
 *Total : 151*
-*These are just a few features that Krypton has to offer!*
+
+*These are just a few features that Krypton has to offer!💃*
 
 > **Admin**
 * CMD-X
