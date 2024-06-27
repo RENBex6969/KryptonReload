@@ -22,7 +22,7 @@ loadstring(game:HttpGet(BootableURL))()
 
 ## Features
 
-*Total : 151*
+*Total : 152*
 
 *These are just a few features that Krypton has to offer!💃*
 
@@ -138,6 +138,7 @@ loadstring(game:HttpGet(BootableURL))()
 
 > **Specials**
 * Allows booting old versions of Krypton
+* Bulit-in Clock
 * Built-in ChatGPT 3.5
 * Built-in Key System Bypasser
 
