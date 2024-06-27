@@ -224,7 +224,7 @@ Any version of Krypton that is below version a2.0 is opensourced. Any versions t
 
 *Special shoutout to the discord servers that accepted Krypton with open arms!*
 
-* discord.gg/
+* https://discord.gg/qxmsv37hJ5
 
 ## License
 This Software License Agreement ("Agreement") is a legally binding agreement between you (either an individual or a single entity) and RenBex6969 ("Licensor") for the use of KryptonReload ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
