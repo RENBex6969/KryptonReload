@@ -202,9 +202,11 @@ loadstring(game:HttpGet(BootableURL))()
 * ❌️ Solara
 * ❌️ Arceus
 ## Information
-> **Laggy**
+> **Emulator**
 
-The lagginess should only appear if you are using bluestacks and your computer isnt strong enough. Or your executor is just straight up trash.
+If you are using an emulator to run Krypton please follow this guide!
+
+* https://www.reddit.com/r/ROBLOXExploiting/s/jpJ0yf6NMt
 
 > **Version**
 Current version of Krypton is a3.5
