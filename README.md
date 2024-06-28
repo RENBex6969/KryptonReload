@@ -4,7 +4,7 @@ Krypton, Sleek advance modern look all under 2800 lines of code!💃
 To launch Krypton you will need to set `_G.License =` to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
 ```lua
 _G.License = false
-BootableURL = "https://shz.al/~KryptoHash"
+BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
 
@@ -195,6 +195,10 @@ loadstring(game:HttpGet(BootableURL))()
 If you are using an emulator to run Krypton please follow this guide!
 
 * https://www.reddit.com/r/ROBLOXExploiting/s/jpJ0yf6NMt
+
+> **Lagging when booting**
+
+Krypton is highly obfuscated thats why booting Krypton will cause lagginess and maybe not work for you!
 
 > **Version**
 Current version of Krypton is a3.5
