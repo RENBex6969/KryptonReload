@@ -4,7 +4,7 @@ Krypton, Sleek advance modern look all under 2300 lines of code!💃
 To launch Krypton you will need to set `_G.License =` to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
 ```lua
 _G.License = false
-_G.KryptonVersion = "a3.4"
+_G.KryptonVersion = "a3.5"
 BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypt0n.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
@@ -207,10 +207,11 @@ loadstring(game:HttpGet(BootableURL))()
 The lagginess should only appear if you are using bluestacks and your computer isnt strong enough. Or your executor is just straight up trash.
 
 > **Version**
-Current version of Krypton is a3.4
+Current version of Krypton is a3.5
 
 **List of versions**
 
+* a3.5
 * a3.4
 * a3.3
 * a3.2
