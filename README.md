@@ -4,19 +4,7 @@ Krypton, Sleek advance modern look all under 2800 lines of code!💃
 To launch Krypton you will need to set `_G.License =` to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
 ```lua
 _G.License = false
-_G.KryptonVersion = "a3.5"
-BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/KryptoHash.lua"
-loadstring(game:HttpGet(BootableURL))()
-```
-## Krypton Rewind
-* Hated the new update?
-If then change KryptonVersion to any version u would like to use!
-
-**Example**
-```lua
-_G.License = true
-_G.KryptonVersion = "a2.5"
-BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/KryptoHash.lua"
+BootableURL = "https://shz.al/~KryptoHash"
 loadstring(game:HttpGet(BootableURL))()
 ```
 
