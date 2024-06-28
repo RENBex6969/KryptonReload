@@ -5,7 +5,7 @@ To launch Krypton you will need to set `_G.License =` to true. This will accept 
 ```lua
 _G.License = false
 _G.KryptonVersion = "a3.5"
-BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypt0n.lua"
+BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/KryptoHash.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
 ## Krypton Rewind
@@ -16,7 +16,7 @@ If then change KryptonVersion to any version u would like to use!
 ```lua
 _G.License = true
 _G.KryptonVersion = "a2.5"
-BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypt0n.lua"
+BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/KryptoHash.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
 
