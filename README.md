@@ -125,7 +125,6 @@ loadstring(game:HttpGet(BootableURL))()
 * X-Ray
 
 > **Specials**
-* Allows booting old versions of Krypton
 * Bulit-in Clock
 * Built-in ChatGPT 3.5
 * Built-in Key System Bypasser
