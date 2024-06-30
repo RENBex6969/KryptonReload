@@ -126,7 +126,6 @@ loadstring(game:HttpGet(BootableURL))()
 
 > **Specials**
 * Bulit-in Clock
-* Built-in ChatGPT 3.5
 * Built-in Key System Bypasser
 
 > **Technical**
