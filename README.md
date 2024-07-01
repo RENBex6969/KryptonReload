@@ -11,6 +11,7 @@ loadstring(game:HttpGet(BootableURL))()
 ## Features
 
 *Goal : 150*
+
 *Estimated Total : 111*
 
 *These are just a few features that Krypton has to offer!💃*
