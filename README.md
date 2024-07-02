@@ -130,6 +130,7 @@ loadstring(game:HttpGet(BootableURL))()
 
 > **Specials**
 * Bulit-in Clock
+* Bulit-in Script Searcher
 * Bulit-in Obfuscator
 * Built-in Key System Bypasser
 
