@@ -253,3 +253,6 @@ This Agreement constitutes the entire agreement between you and the Licensor and
 The Licensor reserves the right to modify this Agreement at any time. Any such modification will be effective upon posting on the Licensor’s GitHub repository or otherwise notifying you.
 ### Agreement
 By using the Software, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+### Automation
+By reading the software code you are automatically agreeing to this License without prior notice!
+
