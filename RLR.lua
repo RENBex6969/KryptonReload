@@ -1,4 +1,4 @@
-BootableURL = ""
+BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypton.lua"
 
 function notify(args1)
   local players = game:GetService("Players")
