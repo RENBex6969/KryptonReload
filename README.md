@@ -4,9 +4,8 @@ Krypton, Sleek advance modern look all under 10K lines of code!💃
 [Our Website](http://194.156.88.217:3534/)
 
 ## Booting Krypton
-To launch Krypton you will need to set `_G.License =` to true. This will accept the license agreement on your behalf. Krypton will only work when the license agreement is agreed by the user.
+
 ```lua
-_G.License = false
 BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
 ```
