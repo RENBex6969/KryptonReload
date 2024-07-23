@@ -1,10 +1,11 @@
 # Krypton
 Krypton, Sleek advance modern look all under 10K lines of code!💃
 
-[Our Website](http://194.156.88.217:3534/)
+[Our Website](http://193.23.126.71:1986)
 
 ## Booting Krypton
 
+*DO NOT EXPECT, Krypton to start up very fast since its obfuscated. but i have the source code which isnt obfuscated and it is safe to say that when Krypton is not obfuscated it boots up very quickly!*
 ```lua
 BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypton.lua"
 loadstring(game:HttpGet(BootableURL))()
@@ -19,6 +20,12 @@ loadstring(game:HttpGet(BootableURL))()
 *These are just a few features that Krypton has to offer!💃*
 
 *I became lazy to add all of it so just make your imagination*
+
+> **AVATAR**
+
+*A Image to show what it has*
+
+[IMAGE]()
 
 > **Admin**
 * CMD-X
