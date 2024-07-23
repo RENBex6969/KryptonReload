@@ -1,5 +1,5 @@
 # Krypton
-Krypton, Sleek advance modern look all under 2800 lines of code!💃
+Krypton, Sleek advance modern look all under 10K lines of code!💃
 
 [Our Website](http://194.156.88.217:3534/)
 
@@ -13,9 +13,9 @@ loadstring(game:HttpGet(BootableURL))()
 
 ## Features
 
-*Goal : 150*
+*Goal : 500*
 
-*Estimated Total : 111*
+*Estimated Scripts Total : 400*
 
 *These are just a few features that Krypton has to offer!💃*
 
