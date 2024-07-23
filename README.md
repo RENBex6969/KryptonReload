@@ -188,6 +188,12 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/KryptonRel
 * Server Rejoin
 * Server Kick
 * Server Join Smallest Server
+## Showcasers
+
+*Big thanks to all the youtubers that showcased my script🔥*
+
+* [Kdetta](www.youtube.com/@Candyxploits)
+
 
 ## Supported Executors
 > Executors
