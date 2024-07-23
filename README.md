@@ -7,8 +7,7 @@ Krypton, Sleek advance modern look all under 10K lines of code!💃
 
 *DO NOT EXPECT, Krypton to start up very fast since its obfuscated. but i have the source code which isnt obfuscated and it is safe to say that when Krypton is not obfuscated it boots up very quickly!*
 ```lua
-BootableURL = "https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/Krypton.lua"
-loadstring(game:HttpGet(BootableURL))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/RLR.lua'))()
 ```
 
 ## Features
