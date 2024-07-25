@@ -221,7 +221,7 @@ If you are using an emulator to run Krypton please follow this guide!
 Krypton is highly obfuscated thats why booting Krypton will cause lagginess and maybe not work for you!
 
 > **Version**
-Current version of Krypton is a4.8
+Current version of Krypton is a4.9
 
 **List of versions**
 
