@@ -192,7 +192,9 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/KryptonRel
 
 *Big thanks to all the youtubers that showcased my script🔥*
 
-* [Kdetta](https://tinyurl.com/Krypton-KDETTA)
+* [Kdetta](https://youtu.be/PddRdLeVqSU)
+* [Mare](https://youtu.be/z1fMqIive6U?si=erfHXt_ckWLKpGFX)
+* [Yasuf](https://youtu.be/pPmdBuBtZHA?si=uYYKZjzz5VTvmCUc)
 
 
 ## Supported Executors
