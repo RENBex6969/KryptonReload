@@ -1,0 +1,28 @@
+local Count = 1
+local Parent = game:GetService("CoreGui"):FindFirstChild("TopBarApp"):FindFirstChild("TopBarFrame"):FindFirstChild("LeftFrame")
+local GUI = Instance.new("ScreenGui", gethui())
+function CreateIcon(IconID)
+ local Image = Instance.new("ImageButton")
+ Image.Parent = GUI
+ Image.Name = "Background"
+ Image.Image = "rbxasset://textures/ui/TopBar/iconBase.png"
+ Image.Position = UDim2.fromOffset(Parent.ChatIcon.AbsolutePosition.X, Parent.ChatIcon.AbsolutePosition.Y) + UDim2.fromOffset(45 * Count, 5)
+ Image.Size = UDim2.fromOffset(30, 30)
+ Image.BackgroundTransparency = 1
+ local Icon2 = Instance.new("ImageLabel")
+ Icon2.Parent = Image
+ Icon2.Image = IconID
+ Icon2.Name = "Icon"
+ Icon2.Size = UDim2.fromOffset(25, 25)
+ Icon2.Position = UDim2.new(.5, 0, .5, 0)
+ Icon2.AnchorPoint = Vector2.new(.5, .5)
+ Icon2.BackgroundTransparency = 1
+ Count += 1
+ return Image
+end
+
+CreateIcon("rbxassetid://7733771628").MouseButton1Click:Connect(function()
+ -- Script to run
+end)
+
+
