@@ -10,6 +10,10 @@ Krypton, Sleek advance modern look all under 10K lines of code!💃
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/KryptonReload/main/RLR.lua'))()
 ```
 
+## WARNING
+
+Krypton will no longer receive huge updates but will receive minor updates that fix bugs. KRYPTON HAS REACHED ITS END OF LIFE!
+
 ## Features
 
 *Goal : 500*
